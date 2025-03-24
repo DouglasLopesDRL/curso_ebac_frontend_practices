@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - added changelod.md
 - added folder HTML
+- added index.html in folder HTMl for branch exercicio_html
 
 
 ### Fixed
