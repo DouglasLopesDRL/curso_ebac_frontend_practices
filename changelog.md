@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - changed content in index.html, creating a form 
-
+- moved the index.html folder to the root
 
 ### Removed
 
