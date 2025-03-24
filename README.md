@@ -1,1 +1,1 @@
-# curso_ebac_practices
+# curso_ebac_frontend_practices
