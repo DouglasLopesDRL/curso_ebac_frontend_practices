@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - added changelod.md
 - added branch exercicio_html
 - added branch exercicio_css
+- added index.html
 
 
 ### Fixed
