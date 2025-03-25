@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - added branch exercicio_css
 - added index.html
 - added main.css
+- added folder images with files
 
 
 ### Fixed
@@ -21,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - changed content in index.html 
+- changed main.css, creating content initial 
 
 
 ### Removed
