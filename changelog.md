@@ -23,7 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - changed content in index.html 
 - changed main.css, creating content initial 
-
+- changed main.css, implementation of content structuring 
 
 ### Removed
 
