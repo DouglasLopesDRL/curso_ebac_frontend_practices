@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - added index.html
 - added main.css
 - added folder images with files
+- added new photos for new section in html
 
 
 ### Fixed
