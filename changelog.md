@@ -24,6 +24,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - changed content in index.html 
 - changed main.css, creating content initial 
 - changed main.css, implementation of content structuring 
+- changed index.html, implementation of new tags and general organization
+- changed main.css, finalization of the initial structure of the website
 
 ### Removed
 
