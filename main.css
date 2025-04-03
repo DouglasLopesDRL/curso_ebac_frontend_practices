@@ -5,10 +5,14 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
 body > header{
+    width: 1366px;
     background-color: #2f3640;
     padding: 16px 0;
     color: #f5f6fa;
+    position: fixed;
+    top: 0;
 }
 
 header .container{
@@ -88,6 +92,7 @@ section h2{
 
 #sports{
     background-color: rgba(0, 255, 0, 0.1);
+    margin-top: 70px;
 }
 
 #sports .articles article a{
@@ -100,4 +105,12 @@ section h2{
 
 #economy .articles article a{
     background-color: #ff9f1a;
+}
+
+#entertainment{
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+#entertainment .articles article a{
+    background-color: #B22222;
 }
