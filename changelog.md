@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - added main.css
 - added folder images with files
 - added new photos in folder images for new section entertainment in html
+- added new photos in folder images for new section technology in html
 
 
 ### Fixed
@@ -30,6 +31,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - changed index.html, creating new section entertainment 
 - changed main.css, style adjustments for the entertainment section
 - changed main.css, set the menu as fixed
+- changed index.html, creating new section technology
+- changed main.css, style adjustments for the technology section
 
 ### Removed
 
