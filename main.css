@@ -91,7 +91,7 @@ section h2{
 }
 
 #sports{
-    background-color: rgba(0, 255, 0, 0.1);
+    background-color: rgba(0, 255, 0, 0.2);
     margin-top: 70px;
 }
 
@@ -108,9 +108,13 @@ section h2{
 }
 
 #entertainment{
-    background-color: rgba(255, 0, 0, 0.1);
+    background-color: rgba(255, 0, 0, 0.2);
 }
 
 #entertainment .articles article a{
     background-color: #B22222;
+}
+
+#technology{
+    background-color: rgba(5, 9, 196, 0.315);
 }
