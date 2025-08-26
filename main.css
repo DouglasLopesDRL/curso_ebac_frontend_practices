@@ -9,6 +9,9 @@
     max-width: 500px;
     margin: 0 auto;
     padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 header{
@@ -17,6 +20,7 @@ header{
 }
 
 form{
+    width: 100%;
     display: flex;
     justify-content: center;
 }
@@ -37,8 +41,20 @@ form button{
     margin-left: 10px;
 }
 
-ul{
-    margin-top: 40px;
-    display: flex;
-    justify-content: center;
+.container ul{
+    margin-top: 40px; 
 }
+
+.container ul li{
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.crossed-out{
+    text-decoration: line-through;
+}
+
+
+
+
+
