@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gulp</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <!-- Slick CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+</head>
+<body>
+    <header>
+        <h1>O Grande Somador</h1>
+    </header>
+    <div class="container">
+        <h2>Calculadora de Soma</h2>
+        <div id="resultado">
+            <p>Digite dois números para somar:</p>
+            <input type="number" id="num1" placeholder="Número 1" required>
+            <input type="number" id="num2" placeholder="Número 2" required>
+            <button type="button" id="calcular">Calcular</button>
+            <p id="resultado-soma">Resultado: </p>
+        </div>   
+
+        <div class="carousel">
+            <div><img src="images/calc-01.jpg" alt="Imagem referente a uma calculadora"></div>
+            <div><img src="images/calc-02.jpg" alt="Imagem referente a uma calculadora"></div>
+            <div><img src="images/calc-03.jpg" alt="Imagem referente a uma calculadora"></div>
+            <div><img src="images/calc-04.jpg" alt="Imagem referente a uma calculadora"></div>
+            <div><img src="images/calc-05.jpg" alt="Imagem referente a uma calculadora"></div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <!-- Slick JS -->
+    <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="scripts/sum.js"></script>
+    <script src="scripts/main.js"></script>
+</body>
+</html>
